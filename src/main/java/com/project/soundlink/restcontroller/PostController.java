@@ -1,4 +1,4 @@
-package com.project.soundlink.Controller;
+package com.project.soundlink.restcontroller;
 
 import java.util.List;
 
