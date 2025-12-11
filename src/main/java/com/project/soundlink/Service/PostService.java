@@ -46,7 +46,7 @@ public class PostService {
         postRepository.deleteById(id);
     }
 
-    // ✅ Convertir Post entity a PostMessage DTO completo
+    //  Convertir Post entity a PostMessage DTO completo
     private void notifyNewPost(Post post) {
         try {
             // Crear UserDTO
